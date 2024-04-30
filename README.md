@@ -32,4 +32,4 @@ The following variables have been identified as significant predictors of house 
 These variables will be utilized in the regression model to predict house prices in the Australian market.
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@KhGunindro] - feel free to contact me!
